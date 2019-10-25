@@ -1,0 +1,1 @@
+# android_sharedpreferences_annotations
